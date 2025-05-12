@@ -1,0 +1,31 @@
+Upwork
+
+Freelancer
+
+Hourly Rate
+
+Work Diary
+
+Time Logged
+
+Project Title
+
+Client Name
+
+Service Fee
+
+Contract ID
+
+Milestone
+
+Payment Method
+
+Disbursement
+
+Invoice ID
+
+Weekly Summary
+
+Platform Fee
+
+Billable Hours
